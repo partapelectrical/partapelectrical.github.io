@@ -50,6 +50,28 @@ html{
 }
 
 
+.whatsapp-floater {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    background-color: #25d366;
+    border-radius: 50%;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Smaller and softer shadow */
+    z-index: 1000;
+}
+
+.whatsapp-floater i {
+    font-size: 40px;
+    color: white;
+}
+
+.whatsapp-floater:hover {
+    background-color: #20b955;
+}
+
+
+
 /* all similar content styling codes */
 section{
     padding: 100px 0;
@@ -183,6 +205,7 @@ section .title::after{
     filter: brightness(90%);
 }
 /* home section styling */
+
 .home {
     display: flex;
     background: url("images/profile-min-2.png") no-repeat center center / cover;
@@ -706,7 +729,8 @@ footer span a:hover{
         font-size: 70px;
     }
     .home .home-content .text-3{
-        font-size: 35px;
+        font-size: 45px;
+        font-weight: bold;
     }
     .home .home-content a{
         font-size: 23px;
@@ -744,7 +768,7 @@ footer span a:hover{
         font-size: 60px;
     }
     .home .home-content .text-3{
-        font-size: 32px;
+        font-size: 45px;
     }
     .home .home-content a{
         font-size: 20px;
@@ -758,7 +782,7 @@ footer span a:hover{
         font-size: 50px;
     }
     .home .home-content .text-3{
-        font-size: 27px;
+        font-size: 45px;
     }
     .about .about-content .right .text,
     .skills .skills-content .left .text{
