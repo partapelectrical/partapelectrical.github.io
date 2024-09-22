@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 400 200" preserveAspectRatio="xMidYMid meet">
-  <circle cx="200" cy="100" r="100" fill="#bfbfbf" />
-  <text x="120" y="125" font-family="Arial" font-size="80" font-weight="bold" fill="#ff0000">
+  <circle cx="200" cy="100" r="100" fill="#e0e0e0" />
+  <text x="120" y="125" font-family="Arial" font-size="80" font-weight="bold" fill="#ff000">
     PEL<tspan font-size="15" baseline-shift="super">®</tspan>
   </text>
 </svg>
