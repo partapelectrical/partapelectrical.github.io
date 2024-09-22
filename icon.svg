@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 200 100">
-  <text x="30" y="80" font-family="Arial" font-size="80" font-weight="bold" fill="#808080"> <!-- Adjusted y for top margin -->
+  <text x="30" y="80" font-family="Arial" font-size="80" font-weight="bold" fill="#ff0000">
     PEL
   </text>
 </svg>
