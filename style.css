@@ -144,6 +144,12 @@ section .title::after{
     color: #fff;
     font-size: 30px;
     font-weight: 600;
+    text-shadow: 
+        1px 1px 0 rgba(0, 0, 0, 0.4), 
+        2px 2px 0 rgba(0, 0, 0, 0.3), 
+        3px 3px 0 rgba(0, 0, 0, 0.2),
+        4px 4px 0 rgba(0, 0, 0, 0.1),
+        5px 5px 0 rgba(0, 0, 0, 0.05);
 }
 .navbar .logo a span{
     color: crimson;
