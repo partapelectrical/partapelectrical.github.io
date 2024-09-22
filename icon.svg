@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 200 100">
   <rect width="100%" height="100%" fill="#808080" />
   <text x="30" y="80" font-family="Arial" font-size="80" font-weight="bold" fill="#ff0000">
-    PEL<tspan font-size="40" baseline-shift="super">®</tspan>
+    PEL<tspan font-size="20" baseline-shift="super">®</tspan>
   </text>
 </svg>
