@@ -245,9 +245,11 @@ section .title::after{
     margin-left: -3px;
     color: #fff; /* Change to your desired color */
     text-shadow: 
-        1px 1px 0 rgba(0, 0, 0, 0.3), 
-        2px 2px 0 rgba(0, 0, 0, 0.2), 
-        3px 3px 0 rgba(0, 0, 0, 0.1);
+        1px 1px 0 rgba(0, 0, 0, 0.4), 
+        2px 2px 0 rgba(0, 0, 0, 0.3), 
+        3px 3px 0 rgba(0, 0, 0, 0.2),
+        4px 4px 0 rgba(0, 0, 0, 0.1),
+        5px 5px 0 rgba(0, 0, 0, 0.05);
 }
 
 .home .home-content .text-3 {
@@ -255,9 +257,12 @@ section .title::after{
     margin: 5px 0;
     color: #fff; /* Change to your desired color */
     text-shadow: 
-        1px 1px 0 rgba(0, 0, 0, 0.3), 
-        2px 2px 0 rgba(0, 0, 0, 0.2), 
-        3px 3px 0 rgba(0, 0, 0, 0.1);
+        1px 1px 0 rgba(0, 0, 0, 0.4), 
+        2px 2px 0 rgba(0, 0, 0, 0.3), 
+        3px 3px 0 rgba(0, 0, 0, 0.2),
+        4px 4px 0 rgba(0, 0, 0, 0.1),
+        5px 5px 0 rgba(0, 0, 0, 0.05);
+
 }
 .home .home-content .text-3 span{
     color: rgb(224, 19, 29);
